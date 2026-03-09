@@ -13,10 +13,10 @@ function App() {
       <style>{`
         body { margin: 0; background-color: #1a1a1a; }
       `}</style>
-     /* <Hero/>
-      <CTA/>*/
+      {/* <Hero/>
+      <CTA/>*/}
       <RealResults />
-    /*  <Testominals/>*/
+      {/*  <Testominals/>*/}
       <Footer />
     </div>
   );
